@@ -1,0 +1,1 @@
+python tools/train.py -f exps/example/custom/yolox_x.py -d 1 -b 16 -c yolox_s.pth --fp16 --cache

@@ -1,0 +1,1 @@
+python tools/demo.py image -f exps/example/custom/yolox_x.py -c best_ckpt_SE.pth --path datasets/HW2_ObjectDetection_2023/val2017 --device gpu --conf 0.01 --nms 0.65 --save_result
